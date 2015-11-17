@@ -1,1 +1,1 @@
-# arduino7
+Arduino code and dependencies.
